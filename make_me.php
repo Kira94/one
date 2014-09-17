@@ -16,10 +16,7 @@
 </head>
 
 <body>
-<button id="move_up">Move Up</button>
-<button id="move_down">Move Down</button>
-<button id="color">Change Color</button>
-<button id="disappear">Disappear/Re-appear</button>
+
 <div id="change_me">Make Me Do Stuff!</div>
 <script>
 $(document).ready(function() {
